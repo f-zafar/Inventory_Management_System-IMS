@@ -4,9 +4,9 @@
 This project is an **Inventory Management System (IMS)** developed progressively over a 14-week course. The system was initially written in **C** and later transitioned to **C++**, incorporating advanced programming paradigms and data structures to improve efficiency, maintainability, and usability.
 
 ## Team Members
+- Fatima Zafar
 - Amini Marvo
 - Alireza Eftekhar
-- Fatima Zafar
 - Yahya Maniar
 
 ## Features
